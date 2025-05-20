@@ -1,0 +1,30 @@
+🔹 Section 2: Function Arguments (Positional, Keyword, Default, Arbitrary)
+6️⃣ Write a function that accepts variable-length arguments (*args) and returns their sum.
+7️⃣ Write a function with keyword arguments that calculates the area of a rectangle (length & width).
+8️⃣ Write a function that takes a person’s name and age (with a default age of 18).
+9️⃣ Create a function that unpacks a dictionary of student details and prints them.
+
+🔟 Write a recursive function to find the sum of digits of a number.
+1️⃣1️⃣ Write a recursive function to find the nth Fibonacci number.
+1️⃣2️⃣ Write a recursive function to reverse a string.
+1️⃣3️⃣ Write a recursive function to find the GCD (Greatest Common Divisor) of two numbers.
+1️⃣4️⃣ Write a recursive function to convert a decimal number to binary
+
+1️⃣5️⃣ Write a lambda function to calculate the square of a number.
+1️⃣6️⃣ Write a lambda function to check if a number is even.
+1️⃣7️⃣ Use map() with a lambda function to double each element in a list.
+1️⃣8️⃣ Use filter() with a lambda function to filter even numbers from a list.
+1️⃣9️⃣ Use reduce() with a lambda function to find the product of all elements in a list.
+
+2️⃣0️⃣ Create a custom module named math_operations.py and define functions for addition, subtraction, multiplication, and division. Import it in another script.
+2️⃣1️⃣ Use the random module to generate a random number between 1 and 100.
+2️⃣2️⃣ Use the datetime module to print the current date and time.
+2️⃣3️⃣ Write a program that imports math.sqrt() and calculates the square root of a user-given number.
+2️⃣4️⃣ Create a package geometry with modules circle.py and rectangle.py. Implement functions for area and perimeter calculations.
+
+2️⃣5️⃣ Implement a recursive function to solve the Tower of Hanoi problem.
+2️⃣6️⃣ Write a function to compute the nth term of an arithmetic sequence using recursion.
+2️⃣7️⃣ Create a higher-order function that takes a function and a list as input, and applies the function to all elements of the list.
+2️⃣8️⃣ Write a Python script that dynamically imports a module using importlib.
+2️⃣9️⃣ Write a program to find all Armstrong numbers in a given range using filter() and a lambda function.
+3️⃣0️⃣ Write a program that sorts a list of dictionaries based on a given key using sorted() and a lambda function.
